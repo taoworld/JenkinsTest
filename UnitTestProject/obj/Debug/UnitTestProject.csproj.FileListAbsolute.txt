@@ -1,0 +1,5 @@
+D:\VSProjects\JenkinTest\UnitTestProject\bin\Debug\UnitTestProject.dll
+D:\VSProjects\JenkinTest\UnitTestProject\bin\Debug\UnitTestProject.pdb
+D:\VSProjects\JenkinTest\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+D:\VSProjects\JenkinTest\UnitTestProject\obj\Debug\UnitTestProject.dll
+D:\VSProjects\JenkinTest\UnitTestProject\obj\Debug\UnitTestProject.pdb
